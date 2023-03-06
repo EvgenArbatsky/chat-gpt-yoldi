@@ -204,6 +204,7 @@ body {
     flex-direction: column;
     width: 100%;
     background-color: var(--light-gray);
+    align-items: center;
 }
 
 .what-is-it .container {
@@ -341,6 +342,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 .action .container {
