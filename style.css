@@ -305,7 +305,7 @@ body {
     flex-direction: column;
     width: 350px;
     gap: 15px;
-    align-items: start;
+    align-items: center;
     text-align: center;
 }
 
@@ -324,8 +324,8 @@ body {
 .info-item {
     flex-direction: row;
     width: 100%;
-    align-items: left;
     text-align: left;
+    align-items: start;
 }
 .info-item__img {
     width: 50px;
